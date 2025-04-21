@@ -5,9 +5,9 @@ const OtherFeatures = () => {
  <section className="text-gray-600 body-font">
     <div className="container px-5 py-24 mx-auto flex flex-col">
         <div className="lg:w-4/6 mx-auto">
-            <div className="rounded-lg h-64 overflow-hidden">
-                <img alt="feature" className="m-auto object-fit object-center h-full w-1/2" src="./nature_0.jpeg" />
-            </div>
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 mx-auto">
+ <img className="object-cover object-center rounded" alt="hero" src="./nature_0.jpeg" />
+</div>
         <div className="flex flex-col sm:flex-row mt-10">
         <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
         <div className="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400 mb-5 flex-shrink-0">
@@ -16,10 +16,10 @@ const OtherFeatures = () => {
         </svg>
         </div>
         <div className="flex-grow">
-        <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Feature 1</h2>
+        <h2 className="text-gray-900 text-lg title-font font-medium mb-3">🔗 Un solo enlace para todo
+        </h2>
         <p className="leading-relaxed text-base">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis, metus nec faucibus rhoncus, nunc enim sodales nisl, vel lobortis nisl metus vel nulla.
-        </p>
+        Centraliza tus redes sociales, tienda, portafolio y más en un solo link fácil de compartir.        </p>
         </div>
         </div>
         <div className="sm:w-1/3 text-center sm:py-8">
@@ -29,10 +29,9 @@ const OtherFeatures = () => {
         </svg>
         </div>
         <div className="flex-grow">
-        <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Feature 2</h2>
+        <h2 className="text-gray-900 text-lg title-font font-medium mb-3">🎨 Personalización total</h2>
         <p className="leading-relaxed text-base">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis, metus nec faucibus rhoncus, nunc enim sodales nisl, vel lobortis nisl metus vel nulla.
-        </p>
+        Diseña tu Treelink con tu estilo o branding: colores, íconos, fotos y más.</p>
         </div>
         </div>
         <div className="sm:w-1/3 text-center sm:pl-8 sm:py-8">
@@ -42,10 +41,9 @@ const OtherFeatures = () => {
         </svg>
         </div>
         <div className="flex-grow">
-        <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Feature 3</h2>
+        <h2 className="text-gray-900 text-lg title-font font-medium mb-3">📈 Aumenta tu alcance</h2>
         <p className="leading-relaxed text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis, metus nec faucibus rhoncus, nunc enim sodales nisl, vel lobortis nisl metus vel nulla.
-        </p>
+        Dirige a tus seguidores justo a donde quieres que vayan, sin perder oportunidades.</p>
         </div>
     </div>
     </div>

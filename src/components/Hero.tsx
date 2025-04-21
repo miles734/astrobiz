@@ -9,10 +9,9 @@ const Hero = () => {
  </div>
  <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
  <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
- Company Name is amazing
- </h1>
+Treelink </h1>
  <p className="mb-8 leading-relaxed">
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus facilisis, metus nec faucibus rhoncus, nunc enim sodales nisl, vel lobortis nisl metus vel nulla. Integer vitae congue dolor. Aenean auctor vitae mauris sit amet commodo. Phasellus viverra lectus vitae ultrices vulputate.
+ 🎯 Treelink es la forma más simple y efectiva de reunir todos tus enlaces en un solo lugar. Ideal para creadores, emprendedores, marcas y profesionales, te permite centralizar tus redes sociales, tienda online, portafolio, videos, formularios y más en un solo link personalizado. Es fácil de usar, 100% personalizable y perfecto para compartir en tu bio de Instagram, TikTok, YouTube o cualquier red social. Con un solo clic, tus seguidores acceden a todo tu universo digital. 🔗 ¡Convierte ese único enlace en una puerta de entrada a todo lo que haces con Treelink!
  </p>
  </div>
  </div>
